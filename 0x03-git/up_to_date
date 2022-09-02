@@ -1,11 +1,1 @@
-Removing 0x03-git/js/main.js
-Removing 0x03-git/js/index.js
-Merge made by the 'recursive' strategy.
- 0x03-git/README.md   | 1 +
- 0x03-git/js/index.js | 0
- 0x03-git/js/main.js  | 0
- README.md            | 1 +
- 4 files changed, 2 insertions(+)
- delete mode 100644 0x03-git/js/index.js
- delete mode 100644 0x03-git/js/main.js
 "git pull"
